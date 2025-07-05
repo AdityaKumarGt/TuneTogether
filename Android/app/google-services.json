@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434033375336",
+    "project_id": "tunetogether-11a2d",
+    "storage_bucket": "tunetogether-11a2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434033375336:android:d66a564a4eaaae783fa3dd",
+        "android_client_info": {
+          "package_name": "com.aditya.tune_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434033375336-o02n5094hnbbmi4mgnsltskdgqclfc9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.tune_together",
+            "certificate_hash": "94a6f8ff6cf750b4918269dffce4ed5abc26988c"
+          }
+        },
+        {
+          "client_id": "434033375336-6l1g5u5fkfageak86q6ij7iqs4pomknr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuyvsxY0dJcEsSYY9L_iG24Go7u05cT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434033375336-6l1g5u5fkfageak86q6ij7iqs4pomknr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
